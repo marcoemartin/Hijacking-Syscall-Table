@@ -1,4 +1,5 @@
-Purpose is to hijack (intercept) system calls by writing and installing a very basic kernel module to the Linux kernel.
+﻿Purpose
+To hijack (intercept) system calls by writing and installing a very basic kernel module to the Linux kernel.
 
 The module will create a new system call capable of:
 REQUEST_SYSCALL_INTERCEPT: intercept the system call syscall
